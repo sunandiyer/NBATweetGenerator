@@ -1,0 +1,1 @@
+The ipynb has a trained LSTM model that it uses to auto generate NBA tweets based on Woj’s twitter account. Since woj mainly breaks NBA news, the goal is to sort of see what it would look like to have a NBA fake news generator.
